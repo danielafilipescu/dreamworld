@@ -1,0 +1,8 @@
+{
+    "name": "dreamworlddestinations",
+    "description": "dreamworld",
+    "version": "1.1.0",
+    "engines": {
+        "node": "12.x"
+    }
+}
